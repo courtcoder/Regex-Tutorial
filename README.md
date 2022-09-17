@@ -1,8 +1,6 @@
 # Regex-Tutorial
 17. Computer Science for JavaScript Challenge
 
-# Regex-Tutorial
-
 ## Summary
 
 RegEx stands for: regular expression; it's a string of text allowing you to create patterns that will help match, locate, and manage text.
